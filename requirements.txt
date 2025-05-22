@@ -1,0 +1,8 @@
+pandas
+matplotlib
+google-api-python-client
+textblob 
+python-dotenv 
+nltk
+streamlit 
+https://cloud.google.com/docs/authentication/provide-credentials-adc#how-to
